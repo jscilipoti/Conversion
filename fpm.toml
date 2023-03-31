@@ -1,0 +1,12 @@
+name = "conversion"
+version = "0.1.0"
+license = "license"
+author = "Federico E. Benelli"
+maintainer = "fedebenelli@outlook.com"
+copyright = "Copyright 2023, Federico E. Benelli"
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+[install]
+library = false
